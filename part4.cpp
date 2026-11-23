@@ -30,6 +30,7 @@ int main ()
 
 cout<<"You will need to order " << PizzaNeeded << " pizzas" <<endl;
 cout<<"There will be " << leftoverSL << " leftover slices." <<endl;
+cout << "Just a test to check" <<endl;
 
 return 0;
 
